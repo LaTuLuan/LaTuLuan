@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there 👋 I'm Luân
 
-<!--
-**LaTuLuan/LaTuLuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Technology Student at Bac Lieu University, Vietnam 🇻🇳
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C++
+- Data Structures & Algorithms
+- Database Design
+- Software Engineering
+- Web Development
+
+## 🔭 Current Projects
+
+- Student exercises in C++
+- Database design practice
+- Software analysis & design assignments
+
+## 💬 Ask Me About
+
+- C++
+- SQL
+- Basic Web Development
+- Software Design
+
+## 🎯 Goals for 2026
+
+- Improve problem-solving skills
+- Build personal projects
+- Learn Git & GitHub
+- Become a Software Developer
+
+## ⚡ Fun Fact
+
+I enjoy turning course assignments into real software projects.
+
+## 📫 Contact
+
+GitHub: https://github.com/LaTuLuan
